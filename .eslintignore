@@ -1,0 +1,11 @@
+.gitignore
+.prettierignore
+.prettierrc.js
+index.html
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.js
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
